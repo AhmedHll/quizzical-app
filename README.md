@@ -14,6 +14,6 @@ https://quizzical-app-sooty.vercel.app/
 
 ## 📷 Screenshots:
 
-![quizzical-scrimba vercel app_](/src/assets/screenshot/1.png)
 ![quizzical-scrimba vercel app_ (1)](/src/assets/screenshot/2.png)
+![quizzical-scrimba vercel app_](/src/assets/screenshot/1.png)
 ![quizzical-scrimba vercel app_ (2)](/src/assets/screenshot/3.png)
