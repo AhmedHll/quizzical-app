@@ -4,6 +4,7 @@
 
 ***Quiz WebApp that access trivia questions from the [Open Trivia Database API](https://opentdb.com/) and score players based on their answers. Multiple game options like difficulty and category are available for the player to change.***
 
+https://quizzical-app-sooty.vercel.app/
 
 ## ⚒️ Built with:
 - HTML 5
